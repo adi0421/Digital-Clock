@@ -9,9 +9,6 @@ A real-time Analog + Digital Clock built with Python and Tkinter.
 - Instant timezone switching
 - Smooth minute hand movement
 
-## Screenshot
-![Clock Preview](preview.png)
-
 ## Requirements
 - Python 3.x
 - pytz
